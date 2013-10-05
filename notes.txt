@@ -1,0 +1,28 @@
+=Notes=
+
+GTK interface or a web interface?
+
+=LAMP=
+Apache would be the simplest thing possible as it is widely available.
+Which then leads to what server-side scripting language to use. PHP?
+
+=GTK2=
+Available on all the platforms.
+Haskell binding available.
+How easy to distribute binaries for major platforms?
+ *OSX
+ *Windows7/8
+ *Linux
+
+
+=Immediate Simplest Thing Possible=
+
+Apache, PHP, jQuery
+
+Set some buttons and an input field for the PWM frequency.
+
+  Motor: [STOP] [START] [CW] [CCW] 
+         [STEPS] [00000] Enter 'c' for continuos.]
+
+  PWM Rate: [00000] Hz  [UPDATE]
+
