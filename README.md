@@ -20,7 +20,7 @@ When I first tried to get this to run under OS X, I had to learn the hard way th
 
 When you plug the expandIO-USB device into your Linux machine, it
 should appear in the list of USB devices if you use the "lsusb"
-command like this:
+command like this: (it's the empty line!)
 
 
     Bus 002 Device 002: ID 046d:c31c Logitech, Inc. Keyboard K120 for Business
